@@ -1,0 +1,36 @@
+body {
+  background: linear-gradient(0deg, #ff0000 0%, #0400ff 100%);
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+body {
+    color:white;
+}
+
+
+a {
+  color: white;
+}
+
+a:link {
+  color: white;
+}
+
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {
+  color: Aquamarine;
+}
+
+
+a:active {
+  color: ForestGreen;
+}
