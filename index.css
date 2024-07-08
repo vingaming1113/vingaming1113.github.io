@@ -33,6 +33,13 @@ a:hover {
 
 a:active {
   color: ForestGreen;
+}
 
+body {
+    overflow: auto;
+resize: both;
+}
+
+body { 
     cursor: pointer;
 }
