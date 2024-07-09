@@ -43,3 +43,7 @@ resize: both;
 body { 
     cursor: pointer;
 }
+
+body {
+    text-shadow: 8px 5px 3px #404040, 5px 5px 10px #000000;
+}
