@@ -1,1 +1,1 @@
-# i dont know how to code in javascript
+# i dont know how to use javascript
