@@ -4,35 +4,35 @@ body {
 }
 
 h1 {
-  color: white;
+  color: cdd6f4;
 }
 
 body {
-    color:white;
+    color: 1e1e2e;
 }
 
 
 a {
-  color: white;
+  color: cdd6f4;
 }
 
 a:link {
-  color: white;
+  color: 89b4fa;
 }
 
 
 a:visited {
-  color: green;
+  color: a6e3a1;
 }
 
 
 a:hover {
-  color: Aquamarine;
+  color: 74c7ec;
 }
 
 
 a:active {
-  color: ForestGreen;
+  color: a6e3a1;
 }
 
 body {
