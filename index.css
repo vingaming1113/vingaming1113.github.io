@@ -1,38 +1,38 @@
 body {
-    background-color: #000000;
+    background-color: #1e1e2e;
   font-family: "Montserrat", sans-serif;
 }
 
 h1 {
-  color: cdd6f4;
+  color: #cdd6f4;
 }
 
 body {
-    color: 1e1e2e;
+    color: #1e1e2e;
 }
 
 
 a {
-  color: cdd6f4;
+  color: #cdd6f4;
 }
 
 a:link {
-  color: 89b4fa;
+  color: #89b4fa;
 }
 
 
 a:visited {
-  color: a6e3a1;
+  color: #a6e3a1;
 }
 
 
 a:hover {
-  color: 74c7ec;
+  color: #74c7ec;
 }
 
 
 a:active {
-  color: a6e3a1;
+  color: #a6e3a1;
 }
 
 body {
